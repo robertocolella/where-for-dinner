@@ -1,3 +1,4 @@
 /.vscode
 /accelerator-info.yaml
 /accelerator-log.md
+.DS_Store
